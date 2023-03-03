@@ -1,5 +1,3 @@
-### reminder
-
 ### Projeto dio.me
 
 Espécie de pokedex usando api rest 'pokeApi' como introdução às chamadas assíncronas do javascript.
