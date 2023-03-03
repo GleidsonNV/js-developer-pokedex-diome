@@ -1,8 +1,3 @@
-https://dribbble.com/shots/6540871-Pokedex-App
-https://dribbble.com/shots/6540871-Pokedex-App
-https://dribbble.com/shots/6540871-Pokedex-App
-https://dribbble.com/shots/6540871-Pokedex-App
-
 ### reminder
 
 ### Projeto dio.me
